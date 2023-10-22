@@ -1,5 +1,6 @@
 #Mon idée de mettre les imports les plus communs dans un fichier pour éviter de devoir reimport à chaque fois
 #Rospy imports
+
 import rospy
 import actionlib
 from actionlib import GoalStatus
